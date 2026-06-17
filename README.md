@@ -1,8 +1,10 @@
-# LeetCode-Solutions
+# Linked List Problems
 This folder contains my solutions to Linked List problems from LeetCode, implemented in Java.
 
+## Solved Problems
 | Problem No. | Problem Name                            | Difficulty |
 | ----------- | --------------------------------------- | ---------- |
+| 2           | Add Two Numbers                         | Medium     |
 | 19          | Remove Nth Node From End of List        | Medium     |
 | 141         | Linked List Cycle                       | Easy       |
 | 142         | Linked List Cycle II                    | Medium     |
@@ -14,15 +16,16 @@ This folder contains my solutions to Linked List problems from LeetCode, impleme
 ## Topics Covered
 * Fast & Slow Pointers
 * Cycle Detection
-* Linked List Reversal
 * Merge Sort on Linked Lists
 * Two Pointer Techniques
 * Palindrome Checking
 * Node Deletion
 * List Reordering
+* Linked List Arithmetic
 
 ## Language
 Java
 
 ## Progress
-Solved: 7 Linked List Problems
+Solved: 8 Linked List Problems
+
