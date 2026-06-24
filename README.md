@@ -9,6 +9,7 @@ This folder contains my solutions to Linked List problems from LeetCode, impleme
 | 141         | Linked List Cycle                       | Easy       |
 | 142         | Linked List Cycle II                    | Medium     |
 | 148         | Sort List                               | Medium     |
+| 203         | Remove Linked List Elements             | Easy       |
 | 234         | Palindrome Linked List                  | Easy       |
 | 328         | Odd Even Linked List                    | Medium     |
 | 2095        | Delete the Middle Node of a Linked List | Medium     |
@@ -19,6 +20,7 @@ This folder contains my solutions to Linked List problems from LeetCode, impleme
 * Merge Sort on Linked Lists
 * Two Pointer Techniques
 * Palindrome Checking
+* Element Deletion
 * Node Deletion
 * List Reordering
 * Linked List Arithmetic
@@ -27,5 +29,5 @@ This folder contains my solutions to Linked List problems from LeetCode, impleme
 Java
 
 ## Progress
-Solved: 8 Linked List Problems
+Solved: 9 Linked List Problems
 
