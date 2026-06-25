@@ -29,5 +29,5 @@ This folder contains my solutions to Linked List problems from LeetCode, impleme
 Java
 
 ## Progress
-Solved: 9 Linked List Problems
+Solved: 10 Linked List Problems
 
